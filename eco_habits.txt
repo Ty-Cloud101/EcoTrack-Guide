@@ -6,3 +6,10 @@ Add new habit:
 
 Task 7: Add Reviewer and Pull Request. - Screenshots
 Compare and Pull Request.
+
+Add new habit:
+4. Avoid single-use plastics.
+
+This is an approve code to the file.
+
+Done
